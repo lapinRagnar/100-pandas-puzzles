@@ -13,3 +13,8 @@ pip freeze > requirements.txt
 python -m pip install -r requirements.txt
 ```
 
+
+# ressources
+https://www.youtube.com/watch?v=i7v2m-ebXB4
+
+
